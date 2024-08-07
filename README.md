@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html,Css,Javascript,Sql,java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/pushpa-vishwakarma-b4ab7b238/**
+- 📫 How to reach me **https://www.linkedin.com/in/pushpa-vishwakarma**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O5xWlMQLTJQCAIg9MpG9NrJRX7cBLNaX/view?usp=sharing](https://drive.google.com/file/d/1O5xWlMQLTJQCAIg9MpG9NrJRX7cBLNaX/view?usp=sharing)
 
