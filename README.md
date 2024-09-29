@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pushpa472](https://github.com/Pushpa472)
 
-- 💬 Ask me about **Html,Css,Javascript,Sql,java**
+- 💬 Ask me about **Html,Css,Javascript,Sql,React Js **
 
 - 📫 How to reach me **https://www.linkedin.com/in/pushpa-vishwakarma**
 
