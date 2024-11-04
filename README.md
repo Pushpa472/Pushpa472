@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpa472&label=Profile%20views&color=0e75b6&style=flat" alt="pushpa472" /> </p>
 
-- 🌱 I’m currently learning **Web Development || front-end Development || SQL DevelopmentT**
+- 🌱 I’m currently learning **Web Development || front-end Development || SQL Development**
 
 - 💬 Ask me about **Html,Css,Javascript,Sql,ReactJs,Tailwind Css,Git**
 
